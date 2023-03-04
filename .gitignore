@@ -16,6 +16,9 @@
 # Mono auto generated files
 mono_crash.*
 
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/**/*.meta
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
