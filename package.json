@@ -1,6 +1,6 @@
 {
   "name": "com.mugonea.utils.unitaskextension",
-  "displayName": "UniTask Extension",
+  "displayName": "Mugonea UniTask Extension",
   "version": "1.0.0",
   "unity": "2018.4",
   "description": "UniTask의 확장 기능",
